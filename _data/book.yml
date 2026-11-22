@@ -1,0 +1,18 @@
+short: cargo-careful と cargo-geiger
+title: cargo-careful と cargo-geiger
+original_title: cargo-careful / cargo-geiger README
+seo_title: cargo-careful と cargo-geiger（README 日本語訳）
+summary: unsafe な Rust コードと向き合うための 2 つのツールの README の、非公式な日本語訳。追加の検査を有効にしてプログラムを実行し、未定義動作を見つけやすくする「cargo-careful」と、クレートとその依存クレートでの unsafe の使用状況を一覧にする「cargo-geiger」を全文訳している。
+author: Ralf Jung と cargo-careful の貢献者、cargo-geiger の貢献者
+source: https://github.com/RalfJung/cargo-careful
+license: MIT または Apache-2.0
+license_url: https://github.com/RalfJung/cargo-careful/blob/master/LICENSE-MIT
+version: cargo-careful は 2026-10-02 時点（コミット 133ff58）、cargo-geiger は 2026-10-13 時点（コミット 118a9a2）
+translated: 2026-11-22
+disclaimer: cargo-careful と cargo-geiger の開発者・Rust Project・Rust Foundation とは提携していません。
+nav:
+  - {file: cargo-careful.html, title: cargo-careful}
+  - {file: cargo-geiger.html, title: cargo-geiger}
+chapters:
+  - {file: cargo-careful.html, title: cargo-careful}
+  - {file: cargo-geiger.html, title: cargo-geiger ☢️}

@@ -1,0 +1,16 @@
+title: cargo-careful と cargo-geiger（日本語訳）
+lang: ja
+baseurl: /unsafe-tools-ja
+url: https://rustsecjp.github.io
+repo_url: https://github.com/RustSecJP/unsafe-tools-ja
+plugins:
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - .github
+  - README.md
+  - NOTICE.md

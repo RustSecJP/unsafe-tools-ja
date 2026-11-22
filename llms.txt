@@ -1,0 +1,8 @@
+# unsafe-tools-ja
+
+> RustSecJP（非公式のコミュニティ）による、Rust のセキュリティ文書の非公式な日本語訳。原著者の確認や公認は受けていない。
+
+## 日本語訳
+
+- [cargo-careful（README 日本語訳）](https://rustsecjp.github.io/unsafe-tools-ja/cargo-careful.html): 追加の検査を有効にしてプログラムを実行し、未定義動作を見つけやすくするツール cargo-careful の README の、非公式な日本語訳。原文は https://github.com/RalfJung/cargo-careful （MIT または Apache-2.0）。
+- [cargo-geiger（README 日本語訳）](https://rustsecjp.github.io/unsafe-tools-ja/cargo-geiger.html): クレートとその依存クレートでの unsafe な Rust コードの使用状況を一覧にするツール cargo-geiger の README の、非公式な日本語訳。原文は https://github.com/geiger-rs/cargo-geiger （Apache-2.0 または MIT）。
