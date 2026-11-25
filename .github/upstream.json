@@ -1,0 +1,20 @@
+{
+  "upstreams": [
+    {
+      "repo": "RalfJung/cargo-careful",
+      "branch": "master",
+      "paths": [
+        "README.md"
+      ],
+      "base": "133ff58b13374bde0a70aee408785247bbcb301c"
+    },
+    {
+      "repo": "geiger-rs/cargo-geiger",
+      "branch": "master",
+      "paths": [
+        "README.md"
+      ],
+      "base": "118a9a2812098ad757c9174ad00be21deaea7e0d"
+    }
+  ]
+}
